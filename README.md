@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sandeep+Reddy+%F0%9F%91%8B;Software+Engineer;Python+%7C+Data+%7C+Web;Solving+one+DSA+problem+a+day" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sandeep+Reddy+%F0%9F%91%8B;Software+Engineer;Trading+Enthusiast+%F0%9F%93%88;MSc+Financial+Engineering+%40+WorldQuant+University;Solving+one+DSA+problem+a+day" alt="Typing intro" />
 
 <p>
   <a href="https://github.com/Sandeep969?tab=followers"><img src="https://img.shields.io/github/followers/Sandeep969?label=Followers&style=social" alt="Followers"/></a>
@@ -13,25 +13,45 @@
 
 ### 👨‍💻 About me
 
+- 📈 **Trading enthusiast** — I love markets and building systematic, data-driven strategies
+- 🎓 **MSc in Financial Engineering** — [WorldQuant University](https://www.wqu.edu/)
 - 🔭 Building **data-driven tools in Python** — analytics, automation and backtesting
-- 🧠 Sharpening fundamentals with **one DSA problem every day** → [dsa-daily](https://github.com/Sandeep969/dsa-daily)
-- 🌱 Currently exploring **algorithms, system design and quantitative analysis**
+- 🧠 Sharpening fundamentals with **one DSA problem every day** → [dsa](https://github.com/Sandeep969/dsa)
+- 🌱 Currently exploring **quantitative finance, algorithms and system design**
 - 🛠️ Have shipped web apps in **React, PHP and plain HTML/CSS/JS**
 - 💬 Ask me about **Python, pandas, data pipelines and problem solving**
+
+---
+
+### 🎓 Education
+
+![WorldQuant University](https://img.shields.io/badge/WorldQuant_University-MSc_Financial_Engineering-0B3D91?style=for-the-badge)
+
+Coursework covers **financial markets, econometrics, derivative pricing, stochastic modeling,
+portfolio theory, machine learning in finance and risk management**.
+
+---
+
+### 📈 Trading & quant
+
+![Algo Trading](https://img.shields.io/badge/Algorithmic_Trading-2ea44f?style=for-the-badge&logo=tradingview&logoColor=white)
+![Backtesting](https://img.shields.io/badge/Backtesting-0B3D91?style=for-the-badge&logo=python&logoColor=white)
+![Options](https://img.shields.io/badge/Options_%26_Derivatives-f0883e?style=for-the-badge)
+![Technical Analysis](https://img.shields.io/badge/Technical_Analysis-8957e5?style=for-the-badge)
 
 ---
 
 ### 🧩 DSA Daily
 
 <p>
-  <a href="https://github.com/Sandeep969/dsa-daily">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSandeep969%2Fdsa-daily%2Fmain%2Fstats.json&query=%24.solved&suffix=%20%2F%20144&label=problems%20solved&style=for-the-badge&color=2f81f7&logo=leetcode&logoColor=white" alt="Problems solved"/>
+  <a href="https://github.com/Sandeep969/dsa">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSandeep969%2Fdsa%2Fmain%2Fstats.json&query=%24.solved&suffix=%20%2F%20144&label=problems%20solved&style=for-the-badge&color=2f81f7&logo=leetcode&logoColor=white" alt="Problems solved"/>
   </a>
-  <a href="https://github.com/Sandeep969/dsa-daily">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSandeep969%2Fdsa-daily%2Fmain%2Fstats.json&query=%24.streak&suffix=%20days&label=streak&style=for-the-badge&color=f0883e&logo=fireship&logoColor=white" alt="Streak"/>
+  <a href="https://github.com/Sandeep969/dsa">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSandeep969%2Fdsa%2Fmain%2Fstats.json&query=%24.streak&suffix=%20days&label=streak&style=for-the-badge&color=f0883e&logo=fireship&logoColor=white" alt="Streak"/>
   </a>
-  <a href="https://github.com/Sandeep969/dsa-daily">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSandeep969%2Fdsa-daily%2Fmain%2Fstats.json&query=%24.last_solved&label=latest&style=for-the-badge&color=2ea44f" alt="Latest solved"/>
+  <a href="https://github.com/Sandeep969/dsa">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSandeep969%2Fdsa%2Fmain%2Fstats.json&query=%24.last_solved&label=latest&style=for-the-badge&color=2ea44f" alt="Latest solved"/>
   </a>
 </p>
 
