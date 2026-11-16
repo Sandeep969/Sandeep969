@@ -14,7 +14,7 @@
 ### 👨‍💻 About me
 
 - 📈 **Trading enthusiast** — I love markets and building systematic, data-driven strategies
-- 🎓 **MSc in Financial Engineering** — [WorldQuant University](https://www.wqu.edu/)
+- 🎓 **IIT Roorkee** alum · **MSc in Financial Engineering** — [WorldQuant University](https://www.wqu.edu/)
 - 🔭 Building **data-driven tools in Python** — analytics, automation and backtesting
 - 🧠 Sharpening fundamentals with **one DSA problem every day** → [dsa](https://github.com/Sandeep969/dsa)
 - 🌱 Currently exploring **quantitative finance, algorithms and system design**
@@ -25,9 +25,13 @@
 
 ### 🎓 Education
 
+![IIT Roorkee](https://img.shields.io/badge/IIT_Roorkee-Indian_Institute_of_Technology-8B0000?style=for-the-badge)
 ![WorldQuant University](https://img.shields.io/badge/WorldQuant_University-MSc_Financial_Engineering-0B3D91?style=for-the-badge)
 
-Coursework covers **financial markets, econometrics, derivative pricing, stochastic modeling,
+- **Indian Institute of Technology (IIT) Roorkee**
+- **WorldQuant University** · MSc in Financial Engineering
+
+MSc coursework covers **financial markets, econometrics, derivative pricing, stochastic modeling,
 portfolio theory, machine learning in finance and risk management**.
 
 ---
